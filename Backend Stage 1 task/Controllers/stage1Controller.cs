@@ -1,4 +1,5 @@
 ﻿using Backend_Stage_1_task.Model;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
