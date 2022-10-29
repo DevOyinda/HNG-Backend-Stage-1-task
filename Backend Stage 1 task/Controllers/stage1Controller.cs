@@ -16,7 +16,7 @@ namespace Backend_Stage_1_task.Controllers
         public IActionResult GetUserDetails()
         {
             var res = new Response() { 
-            slackUsername = "DevOyinda",
+            slackUsername = "Dawodu Kudirat Oyindamola",
             backend = true,
             age = 25,
             bio = "Woman in Tech"};
